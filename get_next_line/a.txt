@@ -1,0 +1,6 @@
+nazan korkmaz 42
+aa
+bb
+
+char
+f
